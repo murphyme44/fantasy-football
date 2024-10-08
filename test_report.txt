@@ -1,0 +1,798 @@
+
+> react-typescript-starter@0.1.0 test
+> react-scripts test --coverage
+
+PASS src/components/TestingComponents/EditAdminPlayers.test.tsx (6.19 s)
+PASS src/components/TestingComponents/UserRating.test.tsx (6.232 s)
+  ● Console
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 9,
+          original: 'Christian McCaffrey',
+          count: 2
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 90,
+          original: 'Christian McCaffrey',
+          count: 2
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 9,
+          original: 'Christian McCaffrey',
+          count: 3
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 95,
+          original: 'Christian McCaffrey',
+          count: 3
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 5,
+          original: 'Christian McCaffrey',
+          count: 3
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 50,
+          original: 'Christian McCaffrey',
+          count: 3
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 9,
+          original: 'Christian McCaffrey',
+          count: 4
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 90,
+          original: 'Christian McCaffrey',
+          count: 4
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 0,
+          original: 'Christian McCaffrey',
+          count: 4
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 9,
+          original: 'Christian McCaffrey',
+          count: 5
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 91,
+          original: 'Christian McCaffrey',
+          count: 5
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 1,
+          original: 'Christian McCaffrey',
+          count: 5
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 10,
+          original: 'Christian McCaffrey',
+          count: 5
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 100,
+          original: 'Christian McCaffrey',
+          count: 5
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 9,
+          original: 'Christian McCaffrey',
+          count: 6
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 91,
+          original: 'Christian McCaffrey',
+          count: 6
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+    console.log
+      widget index: 0
+
+      at getPlayerIndex (src/components/UserRating.tsx:27:17)
+
+    console.log
+      userFiltered index: 0
+
+      at getPlayerFilteredIndex (src/components/UserRating.tsx:31:17)
+
+    console.log
+      [
+        {
+          name: 'Christian McCaffrey',
+          description: 'San Francisco 49ers',
+          image: 'https://static.www.nfl.com/image/private/t_headshot_desktop/league/navqer4chxxut5povzzw',
+          position: 'RB',
+          stats: {
+            touchdowns: 13,
+            receptions: 85,
+            rushAttempts: 244,
+            totalYards: 1880
+          },
+          rating: 1,
+          original: 'Christian McCaffrey',
+          count: 6
+        }
+      ]
+
+      at updateNumber (src/components/UserRating.tsx:48:21)
+
+PASS src/components/TestingComponents/RoleSave.test.tsx (6.218 s)
+PASS src/components/TestingComponents/FilterUserDescription.test.tsx
+  ● Console
+
+    console.error
+      Error: Expected key descriptor but found "" in ""
+          See https://github.com/testing-library/user-event/blob/main/README.md#keyboardtext-options
+          for more information about how userEvent parses your input.
+          at assertDescriptor (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:140:11)
+          at readPrintableChar (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:98:3)
+          at readNextDescriptor (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:92:23)
+          at getNextKeyDef (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:53:7)
+          at keyboardImplementation (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/keyboardImplementation.js:38:106)
+          at keyboardImplementationWrapper (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/index.js:55:65)
+          at typeImplementation (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/type/typeImplementation.js:49:51)
+          at Object.type (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/type/index.js:27:60)
+          at Object.<anonymous> (/home/runner/work/fantasy-football/fantasy-football/src/components/TestingComponents/FilterUserDescription.test.tsx:27:19)
+          at Promise.then.completed (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/utils.js:391:28)
+          at new Promise (<anonymous>)
+          at callAsyncCircusFn (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/utils.js:316:10)
+          at _callCircusTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:218:40)
+          at processTicksAndRejections (node:internal/process/task_queues:96:5)
+          at _runTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:155:3)
+          at _runTestsForDescribeBlock (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:66:9)
+          at _runTestsForDescribeBlock (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:60:9)
+          at run (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:25:3)
+          at runAndTransformResultsToJestFormat (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+          at jestAdapter (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+          at runTestInternal (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/runTest.js:389:16)
+          at runTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/runTest.js:475:34)
+          at Object.worker (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/testWorker.js:133:12)
+
+PASS src/components/TestingComponents/EditUserPlayers.test.tsx
+PASS src/components/TestingComponents/PlayerCount.test.tsx
+PASS src/components/TestingComponents/CentralSort.test.tsx
+  ● Console
+
+    console.log
+      Pos
+
+      at updateSort (src/components/sortSelect.tsx:32:21)
+
+    console.log
+      Rat
+
+      at updateSort (src/components/sortSelect.tsx:35:21)
+
+    console.log
+      Touch
+
+      at updateSort (src/components/sortSelect.tsx:38:21)
+
+    console.log
+      Touch
+
+      at updateSort (src/components/sortSelect.tsx:38:21)
+
+    console.log
+      None
+
+      at updateSort (src/components/sortSelect.tsx:29:21)
+
+PASS src/components/TestingComponents/AddingAndSorting.test.tsx
+  ● Console
+
+    console.log
+      None
+
+      at updateSort (src/components/sortSelect.tsx:29:21)
+
+    console.log
+      Pos
+
+      at updateSort (src/components/sortSelect.tsx:32:21)
+
+    console.log
+      Rat
+
+      at updateSort (src/components/sortSelect.tsx:35:21)
+
+    console.log
+      Touch
+
+      at updateSort (src/components/sortSelect.tsx:38:21)
+
+PASS src/components/TestingComponents/UserSorting.test.tsx
+  ● Console
+
+    console.log
+      None
+
+      at updateSort (src/components/sortSelect.tsx:29:21)
+
+    console.log
+      Pos
+
+      at updateSort (src/components/sortSelect.tsx:32:21)
+
+    console.log
+      Rat
+
+      at updateSort (src/components/sortSelect.tsx:35:21)
+
+    console.log
+      Touch
+
+      at updateSort (src/components/sortSelect.tsx:38:21)
+
+    console.log
+      Rat
+
+      at updateSort (src/components/sortSelect.tsx:35:21)
+
+    console.log
+      None
+
+      at updateSort (src/components/sortSelect.tsx:29:21)
+
+PASS src/components/TestingComponents/CentralFilter.test.tsx
+PASS src/components/TestingComponents/UserFilter.test.tsx
+PASS src/components/TestingComponents/AddingAndFiltering.test.tsx
+PASS src/components/TestingComponents/DeleteButtons.test.tsx
+PASS src/components/TestingComponents/DeleteUsers.test.tsx
+  ● Console
+
+    console.error
+      Error: Expected key descriptor but found "" in ""
+          See https://github.com/testing-library/user-event/blob/main/README.md#keyboardtext-options
+          for more information about how userEvent parses your input.
+          at assertDescriptor (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:140:11)
+          at readPrintableChar (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:98:3)
+          at readNextDescriptor (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:92:23)
+          at getNextKeyDef (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:53:7)
+          at keyboardImplementation (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/keyboardImplementation.js:38:106)
+          at keyboardImplementationWrapper (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/index.js:55:65)
+          at typeImplementation (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/type/typeImplementation.js:49:51)
+          at Object.type (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/type/index.js:27:60)
+          at Object.<anonymous> (/home/runner/work/fantasy-football/fantasy-football/src/components/TestingComponents/DeleteUsers.test.tsx:66:19)
+          at Promise.then.completed (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/utils.js:391:28)
+          at new Promise (<anonymous>)
+          at callAsyncCircusFn (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/utils.js:316:10)
+          at _callCircusTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:218:40)
+          at processTicksAndRejections (node:internal/process/task_queues:96:5)
+          at _runTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:155:3)
+          at _runTestsForDescribeBlock (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:66:9)
+          at _runTestsForDescribeBlock (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:60:9)
+          at run (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:25:3)
+          at runAndTransformResultsToJestFormat (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+          at jestAdapter (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+          at runTestInternal (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/runTest.js:389:16)
+          at runTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/runTest.js:475:34)
+          at Object.worker (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/testWorker.js:133:12)
+
+PASS src/components/TestingComponents/Roles.test.tsx
+  ● Console
+
+    console.error
+      Error: Expected key descriptor but found "" in ""
+          See https://github.com/testing-library/user-event/blob/main/README.md#keyboardtext-options
+          for more information about how userEvent parses your input.
+          at assertDescriptor (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:140:11)
+          at readPrintableChar (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:98:3)
+          at readNextDescriptor (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:92:23)
+          at getNextKeyDef (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:53:7)
+          at keyboardImplementation (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/keyboardImplementation.js:38:106)
+          at keyboardImplementationWrapper (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/index.js:55:65)
+          at typeImplementation (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/type/typeImplementation.js:49:51)
+          at Object.type (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/type/index.js:27:60)
+          at Object.<anonymous> (/home/runner/work/fantasy-football/fantasy-football/src/components/TestingComponents/Roles.test.tsx:47:19)
+          at Promise.then.completed (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/utils.js:391:28)
+          at new Promise (<anonymous>)
+          at callAsyncCircusFn (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/utils.js:316:10)
+          at _callCircusTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:218:40)
+          at processTicksAndRejections (node:internal/process/task_queues:96:5)
+          at _runTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:155:3)
+          at _runTestsForDescribeBlock (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:66:9)
+          at _runTestsForDescribeBlock (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:60:9)
+          at run (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:25:3)
+          at runAndTransformResultsToJestFormat (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+          at jestAdapter (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+          at runTestInternal (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/runTest.js:389:16)
+          at runTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/runTest.js:475:34)
+          at Object.worker (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/testWorker.js:133:12)
+
+PASS src/components/TestingComponents/AddingByClickButton.test.tsx
+PASS src/components/TestingComponents/AddingNewPlayers.test.tsx
+PASS src/components/TestingComponents/FilterCentralDescription.test.tsx
+  ● Console
+
+    console.error
+      Error: Expected key descriptor but found "" in ""
+          See https://github.com/testing-library/user-event/blob/main/README.md#keyboardtext-options
+          for more information about how userEvent parses your input.
+          at assertDescriptor (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:140:11)
+          at readPrintableChar (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:98:3)
+          at readNextDescriptor (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:92:23)
+          at getNextKeyDef (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/getNextKeyDef.js:53:7)
+          at keyboardImplementation (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/keyboardImplementation.js:38:106)
+          at keyboardImplementationWrapper (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/keyboard/index.js:55:65)
+          at typeImplementation (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/type/typeImplementation.js:49:51)
+          at Object.type (/home/runner/work/fantasy-football/fantasy-football/node_modules/@testing-library/user-event/dist/type/index.js:27:60)
+          at Object.<anonymous> (/home/runner/work/fantasy-football/fantasy-football/src/components/TestingComponents/FilterCentralDescription.test.tsx:18:19)
+          at Promise.then.completed (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/utils.js:391:28)
+          at new Promise (<anonymous>)
+          at callAsyncCircusFn (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/utils.js:316:10)
+          at _callCircusTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:218:40)
+          at processTicksAndRejections (node:internal/process/task_queues:96:5)
+          at _runTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:155:3)
+          at _runTestsForDescribeBlock (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:66:9)
+          at _runTestsForDescribeBlock (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:60:9)
+          at run (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/run.js:25:3)
+          at runAndTransformResultsToJestFormat (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+          at jestAdapter (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+          at runTestInternal (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/runTest.js:389:16)
+          at runTest (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/runTest.js:475:34)
+          at Object.worker (/home/runner/work/fantasy-football/fantasy-football/node_modules/jest-runner/build/testWorker.js:133:12)
+
+PASS src/components/TestingComponents/IsDraggable.test.tsx
+PASS src/components/TestingComponents/EditSuper.test.tsx (11.626 s)
+----------------------------------|---------|----------|---------|---------|-------------------
+File                              | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
+----------------------------------|---------|----------|---------|---------|-------------------
+All files                         |   93.86 |    86.14 |    92.3 |   93.82 |                   
+ src                              |     100 |     90.9 |     100 |     100 |                   
+  App.tsx                         |     100 |     90.9 |     100 |     100 | 120               
+  players.tsx                     |     100 |      100 |     100 |     100 |                   
+ src/components                   |   89.41 |    83.72 |   88.31 |    89.3 |                   
+  AddPlayers.tsx                  |     100 |      100 |     100 |     100 |                   
+  DragAndDisplay.tsx              |      70 |    67.85 |      70 |      70 | 68-110,189,227    
+  PlayerStats.tsx                 |     100 |      100 |     100 |     100 |                   
+  SearchTextBox.tsx               |     100 |      100 |     100 |     100 |                   
+  SortFilterBox.tsx               |     100 |       50 |     100 |     100 | 69-70             
+  SuperAdminEdit.tsx              |     100 |      100 |     100 |     100 |                   
+  TeamRoster.tsx                  |     100 |      100 |     100 |     100 |                   
+  UserEdit.tsx                    |     100 |      100 |     100 |     100 |                   
+  UserPositionFilter.tsx          |   92.85 |    83.33 |     100 |   92.85 | 48                
+  UserRating.tsx                  |     100 |      100 |     100 |     100 |                   
+  UserText.tsx                    |     100 |      100 |     100 |     100 |                   
+  roleSelect.tsx                  |   96.29 |    95.45 |     100 |   96.29 | 70                
+  sortSelect.tsx                  |     100 |    92.85 |     100 |     100 | 37                
+ src/components/subComponentsEdit |     100 |    80.48 |     100 |     100 |                   
+  EditDescription.tsx             |     100 |      100 |     100 |     100 |                   
+  EditImage.tsx                   |     100 |      100 |     100 |     100 |                   
+  EditName.tsx                    |     100 |      100 |     100 |     100 |                   
+  EditPosition.tsx                |     100 |      100 |     100 |     100 |                   
+  EditRating.tsx                  |     100 |    55.55 |     100 |     100 | 24-40             
+  EditReceptions.tsx              |     100 |     87.5 |     100 |     100 | 26                
+  EditRushAttempts.tsx            |     100 |     87.5 |     100 |     100 | 26                
+  EditTotalYards.tsx              |     100 |     87.5 |     100 |     100 | 26                
+  EditTouchdowns.tsx              |     100 |     87.5 |     100 |     100 | 26                
+ src/components/visibilityButtons |     100 |      100 |     100 |     100 |                   
+  EditAdminButton.tsx             |     100 |      100 |     100 |     100 |                   
+  EditSuperButton.tsx             |     100 |      100 |     100 |     100 |                   
+  EditUserButton.tsx              |     100 |      100 |     100 |     100 |                   
+ src/interfaces                   |       0 |        0 |       0 |       0 |                   
+  player.tsx                      |       0 |        0 |       0 |       0 |                   
+----------------------------------|---------|----------|---------|---------|-------------------
+
+Test Suites: 20 passed, 20 total
+Tests:       105 passed, 105 total
+Snapshots:   0 total
+Time:        22.227 s
+Ran all test suites.
